@@ -10,6 +10,8 @@ To run the game, simply run the following command:
 python3 solarsystemexplorer.py
 ```
 
+Or run it interactively in your web browser: [Solar System Explorer](https://replit.com/@TimelessP/Solar-System-Explorer?v=1)
+
 *Note: Tested on Python 3.11*
 
 ## Valid routes

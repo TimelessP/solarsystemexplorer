@@ -16,7 +16,7 @@ Or run it interactively in your web browser: [Solar System Explorer](https://rep
 
 ## Valid routes
 
-Your ship has some quirks though, and its navigational system only has a partial set of routes for travelling to all the planets. This map might be of some help:
+Your ship has some quirks though, and its navigational system only has a partial set of routes for travelling to all the planets/dwarf planets. This map might be of some help:
 
 ```mermaid
 stateDiagram

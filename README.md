@@ -18,7 +18,6 @@ Your ship has some quirks though, and its navigational system only has a partial
 
 ```mermaid
 stateDiagram
-    [*] --> Earth
     Earth --> Mercury 
     Earth --> Venus 
     Venus --> Earth 
